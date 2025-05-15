@@ -74,8 +74,6 @@ footer {
     padding: 1em 0;
 }
 
-/* Add more styles as needed for your specific design */
-
 /* Responsive Design (example for smaller screens):*/
 @media (max-width: 768px) {
     .testimonial {
